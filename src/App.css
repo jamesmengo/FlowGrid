@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.EntryWrapper {
+  width: 100%;
+  height: 100%;
+}
+
+
